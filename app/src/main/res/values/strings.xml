@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoToEat_Mobile_Lab</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="button">Button</string>
+</resources>

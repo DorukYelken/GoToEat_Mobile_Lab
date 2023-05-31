@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871638700262",
+    "project_id": "gotoeat-65c63",
+    "storage_bucket": "gotoeat-65c63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871638700262:android:d79a345be7fc6a71202b27",
+        "android_client_info": {
+          "package_name": "com.example.gotoeat_mobile_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCluxv6Nl8rJlLzDlWtKwE25yO2KQd097Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
